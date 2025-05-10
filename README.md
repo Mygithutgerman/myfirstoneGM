@@ -1,0 +1,2 @@
+# myfirstoneGM
+For_Practicing_what_ive_learned
